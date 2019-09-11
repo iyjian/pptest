@@ -1,0 +1,12 @@
+version: '3.5'
+
+x-defaults: &defaults
+  restart: unless-stopped
+  network_mode: "host"
+  image: webot/macpro-client:node10
+
+services:
+  mac001:
+    <<: *defaults
+    volumes:
+      - ./config/clients/mac001.js:/home/work/config/index.js

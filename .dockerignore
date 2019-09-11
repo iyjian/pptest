@@ -1,0 +1,6 @@
+node_modules
+.gitignore
+logs/*
+!logs/.keep
+.vscode
+package-lock.json
