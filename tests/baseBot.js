@@ -1,4 +1,4 @@
-const { Wechaty } = require('wechaty')
+const { Wechaty } = require('./../wechaty/dist/src')
 const { PuppetPadplus } = require('wechaty-puppet-padplus')
 const conf = require('./../config')
 console.log(conf.token)
