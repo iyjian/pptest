@@ -6,7 +6,7 @@
     "file-box": "^0.8.27",
     "google-protobuf": "^3.6.1",
     "got": "^9.5.0",
-    "grpc": "^1.19.0",
+    "grpc": "^1.24.9",
     "lodash": "^4.17.11",
     "log4js": "^3.0.6",
     "memory-card": "^0.6.13",
