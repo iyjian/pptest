@@ -5,7 +5,7 @@
     "deferred-leveldown": "^5.0.0",
     "file-box": "^0.8.27",
     "google-protobuf": "^3.6.1",
-    "got": "^9.5.0",
+    "got": "^11.8.5",
     "grpc": "^1.19.0",
     "lodash": "^4.17.11",
     "log4js": "^3.0.6",
